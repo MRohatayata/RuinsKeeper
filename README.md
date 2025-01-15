@@ -6,5 +6,5 @@ Unity ile geliştirilmiş 2D macera oyunu
 - **Zengin Görseller:** Piksel art tarzında çarpıcı grafikler.
 
 
-![Game Image](https://hizliresim.com/arkhtgv)
+![Game Image]([https://hizliresim.com/arkhtgv](https://drive.google.com/file/d/1dX9Ndp36sjtB7eFhWkDrg5zg8QrsslEu/view?usp=sharing))
 
