@@ -30,3 +30,5 @@ Oyuncunun canı bittiğindeki durumun görseli.
 3. Bir sonraki seviyeye geçmek için, gerekli kısma geçin.
 
 ## Oyunu Geliştirmeye Devam ediyorum yenilikleri beklemede kalın.
+
+## Lisansı, Ticarete kapalı sadece oynamaya açıktır.
