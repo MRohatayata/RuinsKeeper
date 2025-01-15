@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "667342020168",
+    "project_id": "mygame-e891b",
+    "storage_bucket": "mygame-e891b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:667342020168:android:7752358c2cdb639d3c827d",
+        "android_client_info": {
+          "package_name": "com.MyGameCompany.Yoruldum"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaEomyVnX0SBzn6Tj_kMC9FwZiBta-ak0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
