@@ -6,7 +6,7 @@ Unity ile geliştirilmiş bir 2D macera oyunu.
 
 ## Giriş Ekranı
 Firebase entegreli giriş ekranı, giriş yapma ve kaydolmamıza yarıyor. Projenin ilerleyen zamanlarında kendi profillerimize ait özellikler de ekleneceği için oluşturuldu.
-![Giriş Ekranı](https://drive.google.com/file/d/1N8YSCEIB3it2sh940zQoDdAVIJTYSUw2/view?usp=sharing)
+![Giriş Ekranı](https://drive.google.com/uc?export=view&id=1N8YSCEIB3it2sh940zQoDdAVIJTYSUw2)
 
 ## Oyun Başlangıç Ekranı
 Oyun başladığında karşınıza çıkan ekran:
